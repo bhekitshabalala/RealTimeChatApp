@@ -48,8 +48,12 @@ The application replicates modern chat features similar to messaging platforms, 
 ---
 
 ## 📸 Screenshots
+<<<<<<< HEAD
 
 ![Real Time Chat Application](screenshots/chat-app.png)
+=======
+*(Insert screenshots of your chat app GUI here for GitHub visual reference)*
+>>>>>>> 2c6538232a957fa5cdf513a65c2ddfd5666f2bfe
 
 ---
 
@@ -58,5 +62,9 @@ The application replicates modern chat features similar to messaging platforms, 
 2. Run `ChatServer.java` first to start the server.  
 3. Run one or more instances of `ChatClient.java` to connect and start chatting.  
 4. Type messages in the text field; use `@username` for private messages.
+<<<<<<< HEAD
 
+
+=======
+>>>>>>> 2c6538232a957fa5cdf513a65c2ddfd5666f2bfe
 
